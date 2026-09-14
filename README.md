@@ -8,7 +8,7 @@
 - **区间定位**：输入如 `30-100`，跳转到起始楼层并标记区间边界
 - **顶部/底部**：一键回到第 0 楼或最新楼层
 - **关键词搜索**：搜索消息正文和日期，包含隐藏楼层
-- **发言人过滤**：按"全部/用户/角色/隐藏"筛选搜索结果
+- **发言人过滤**：按“全部/用户/角色/隐藏”筛选搜索结果
 - **书签收藏**：给经典楼层打标签，随时一键跳转
 - **区间导出**：支持 `.md` / `.txt` / `.jsonl` 三种格式，可导出文件或复制到剪贴板
 
@@ -19,7 +19,7 @@
 1. 在 SillyTavern 中打开 **扩展** → **安装扩展**
 2. 输入本仓库地址：
    ```
-   https://github.com/bkbk258/SillyTavern-ChatNavigator
+   https://github.com/bkbk258/SillyTavern-ChatNavigator-Pro
    ```
 3. 点击安装，重启 SillyTavern 即可
 
@@ -28,7 +28,7 @@
 将整个仓库克隆或下载到 SillyTavern 的第三方扩展目录：
 
 ```
-SillyTavern/public/scripts/extensions/third-party/SillyTavern-ChatNavigator/
+SillyTavern/public/scripts/extensions/third-party/SillyTavern-ChatNavigator-Pro/
 ```
 
 然后重启 SillyTavern。
@@ -55,7 +55,7 @@ SillyTavern/public/scripts/extensions/third-party/SillyTavern-ChatNavigator/
 
 ## 版本
 
-v1.0.5
+v1.0.6
 
 ## 作者
 
