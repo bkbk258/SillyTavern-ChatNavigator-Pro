@@ -1,0 +1,13 @@
+{
+    "display_name": "命途扉页",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "bk的殿下",
+    "version": "1.0.5",
+    "homePage": "https://github.com/bkbk258/SillyTavern-ChatNavigator",
+    "auto_update": true,
+    "minimum_client_version": "1.13.0"
+}
